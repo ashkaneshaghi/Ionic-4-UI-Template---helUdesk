@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ashkaneshaghi/Ionic-4-UI-Template---helUdesk#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "tar": "^4.4.8"
   }
 }
