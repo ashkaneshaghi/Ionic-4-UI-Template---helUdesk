@@ -102,6 +102,6 @@ export class LoginPage implements OnInit {
 
   // Navigation to Dashboard
   goToDashboard(){
-    //TO_DO
+    this.navCtrl.navigateRoot('/dashboard');
   }
 }
